@@ -1,4 +1,3 @@
 # Fastify-api
 
-Following Traversy's Fastify Crash Course | Node.js Framework
-https://www.youtube.com/watch?v=Lk-uVEVGxOA
+Following [Brad Traversy's](https://www.traversymedia.com/) Fastify Crash Course | Node.js Framework on [YouTube](https://www.youtube.com/watch?v=Lk-uVEVGxOA)
